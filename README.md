@@ -1,5 +1,3 @@
-Olá, eu sou o Hotto!
-Bem-vindo ao meu repositório no GitHub! Aqui você encontrará alguns dos meus projetos e aprendizados enquanto sigo minha jornada na programação. Permita-me compartilhar um pouco sobre mim:
 
 👋 Oi, meu nome é Hotto.
 🌍 Tenho 25 anos e sou natural de Vila Velha, Espírito Santo.
@@ -17,5 +15,3 @@ Como entrar em contato comigo?
 Contribuições são bem-vindas!
 
 Agradeço por visitar meu repositório. Espero que você encontre algo útil e interessante aqui. Obrigado!
-
-Hotto's GitHub Stats
