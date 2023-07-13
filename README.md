@@ -7,8 +7,6 @@
 
 🌱 Estou absorvendo o máximo de conhecimento possível para impulsionar minha carreira nessa área.
 
-💻 Meus principais focos de estudo são Python, JavaScript e Flutter.
-
 Como entrar em contato comigo?
 📧 Email: 8taviop@gmail.com.
 📷 Instagram: @hottoxyz.
