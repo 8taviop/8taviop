@@ -7,10 +7,6 @@
 
 🌱 Estou absorvendo o máximo de conhecimento possível para impulsionar minha carreira nessa área.
 
-Como entrar em contato comigo?
-📧 Email: 8taviop@gmail.com.
-📷 Instagram: @hottoxyz.
-
 Contribuições são bem-vindas!
 
 Agradeço por visitar meu repositório. Espero que você encontre algo útil e interessante aqui. Obrigado!
